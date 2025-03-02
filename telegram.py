@@ -1,7 +1,7 @@
 import os
 import telebot
 import google.generativeai as genai
-import speechrecognition as sr
+import speech_recognition as sr
 import requests
 from dotenv import load_dotenv
 from telebot import types
